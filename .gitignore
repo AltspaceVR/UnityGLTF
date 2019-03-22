@@ -150,3 +150,9 @@ _pkginfo.txt
 !*.[Cc]ache/
 
 *.orig
+
+# Android Build
+UnityGLTF/.gradle/
+
+# Some Unity project settings
+UnityGLTF/ProjectSettings/
